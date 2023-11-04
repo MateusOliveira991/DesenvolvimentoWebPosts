@@ -1,0 +1,34 @@
+body {
+   font-family: Arial, sans-serif;
+   background-color: #f4f4f4;
+   text-align: center;
+}
+
+.error-message {
+   font-size: 36px;
+   color: #ff0000;
+   margin-bottom: 20px;
+   padding-top: 50px;
+}
+
+.error-code {
+   font-size: 96px;
+   color: rgb(185, 180, 180);
+   margin-bottom: 40px;
+}
+
+.back-home {
+   font-size: 24px;
+   text-decoration: none;
+   color: #007bff;
+}
+
+.back-home:hover {
+   color: #0056b3;
+}
+
+.paragrafo-erro {
+   color: rgb(185, 180, 180);
+   margin-bottom: 20px;
+   margin-left: 50px;
+}
